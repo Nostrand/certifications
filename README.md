@@ -1,6 +1,6 @@
-# Certifications (WIP)
+# Certifications
 
-A repository to display certificates obtained through different platforms.
+This comprehensive portfolio showcases my journey of continuous learning and professional development through a diverse collection of certificates, specializations, tracks, courses, classes, and internships.
 
 ## Professional Certificates, Specializations and Career Tracks
 
@@ -22,3 +22,13 @@ A repository to display certificates obtained through different platforms.
 | Causes of Human Disease: Understanding Causes of Disease                 | FutureLearn / University of Leeds   | Epidemiology and Analyzing Health Patterns, Research and Report Writing, Public Health, Critical Thinking                | -                                                      | [Certificate](https://www.futurelearn.com/certificates/e3iekt3) / [Course Page](https://www.futurelearn.com/courses/human-disease-understanding-causes-of-disease) |
 | Learning How to Learn: Powerful mental tools to help you master tough subjects    | Coursera / Deep Teaching Solutions          | Learning Strategies, Time Management and Productivity, Focus and Concentration, Pomodoro Technique        | Activity Tracking Tools   | [Certificate](https://www.coursera.org/account/accomplishments/verify/B2TZKY3M7XSQ) / [Course Page](https://www.coursera.org/learn/learning-how-to-learn) |
 
+## Classes and Internships from Biomedical Informatics Technologist degree
+| Class/Internship        | Institution          | Skills & Concepts Developed | Tools Used | Relevant Links |
+|------------------------|----------------------|----------------------------|------------|----------------|
+| Applied Multimedia  | DUOC UC Professional Institute       | Front-End Development, Basic Graphic Design and Image Editing, Visual Communication | HTML, CSS, Bootstrap, Adobe Photoshop | [Repository](https://github.com/Nostrand/SaludHualqui) |
+| Data Internship | Hospital Clínico del Sur      | ETL, Data Cleaning, Data Validation, Clinical Data Management, Data Visualization | Microsoft Excel, Microsoft Access, SQL, EHR system | - |
+| IT Internship | CESFAM Hualqui      | Web Development, IT Support, Responsive Web Design | PHP, MySQL, HTML, CSS, JavaScript, Bootstrap | - |
+| Programming Foundations | DUOC UC Professional Institute      | Web Development Fundamentals, Introduction to Programming | PHP, MySQL | - |
+| Databases | DUOC UC Professional Institute      | Database Design Principles, Entity-Relationship Diagrams (ERD) | MySQL | - |
+| Biostatistics & Epidemiology | DUOC UC Professional Institute    | Summary Statistics, Epidemiology, Survey Design | Epi Info | - |
+| Project Management | DUOC UC Professional Institute    | Project Planning and Scheduling, Gantt Charts, Resource Allocation | Microsoft Project | - |
